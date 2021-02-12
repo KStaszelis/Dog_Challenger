@@ -6,10 +6,10 @@ I've used react-navigation for navigation, react-native for creating the basic c
 ## Content
 
 **The application consists of five screens:**
-**wellcome** that encourages the use of the application
-**choice** that allows user to choose the breed and age of dog and counts the daily demand for walks
-**main** that allows user to start the walk
-**steps** that measure the amount of steps made during the walk using internal pedometer in device (expo-sensor used)
+**wellcome** that encourages the use of the application,
+**choice** that allows user to choose the breed and age of dog and counts the daily demand for walks,
+**main** that allows user to start the walk,
+**steps** that measure the amount of steps made during the walk using internal pedometer in device (expo-sensor used),
 **statistics** shows the weekly statistisc of the walks (under construction)
 
 ## Built with
